@@ -1,5 +1,5 @@
 {
-  "name": "atom-package-template",
+  "name": "spy",
   "theme": "atom-package-template",
   "version": "0.10.9",
   "description": "เพิ่มตรงนี้",
@@ -7,7 +7,7 @@
     "ใส่เพิ่มตรงนี้",
     "เพิ่มตรงนี้"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/nattaporn19/atom-package-template",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
