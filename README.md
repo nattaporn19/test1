@@ -1,3 +1,3 @@
-# spyware
+# atom-package-template
 
-## วิธีสร้าง Package ขึ้นไปบน atom.io
+ทดสอบ hello world
