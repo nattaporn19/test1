@@ -1,15 +1,16 @@
 {
   "name": "test1",
-  "theme": "test1",
-  "version": "0.10.3",
-  "description": "เพิ่มตรงนี้",
-  "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
-  ],
-  "repository": "https://github.com/nattaporn19/atom-package-template",
+  "main": "/test19",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "test1:toggle"
+  },
+  "repository": "https://github.com/nattaporn19/test1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "dependencies": {}
 }
